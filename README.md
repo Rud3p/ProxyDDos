@@ -30,7 +30,7 @@ The script spins up threads to bombard the target with requests via the proxies,
 
 For usage questions, to report bugs, or to suggest new features, please contact me on Telegram: 
 
-@rRud3p
+@Rud3p
 
 Or open a GitHub issue on the project page:
 
