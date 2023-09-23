@@ -1,1 +1,49 @@
-# ProxyDDos
+# Proxy DDoS
+
+This Python script can perform a distributed denial of service (DDoS) attack by overwhelming a target website with requests from multiple proxies.
+
+**This should only be used for authorized testing of your own systems - attacking websites without permission is illegal!** 
+
+## Usage
+
+1. Update `proxies.txt` with proxy URLs, one per line.
+
+2. Run the script: 
+
+3. Enter the target URL when prompted.
+
+The script spins up threads to bombard the target with requests via the proxies, overwhelming the target website.
+
+## Features
+
+- Multi-threaded requests via proxies for powerful DDoS capability  
+- SOCKS proxy support for anonymity
+- Customizable list of proxies
+- Animated logo for coolness
+
+## Upcoming Features
+
+- HTTP proxy support
+- Randomized user agents  
+- Target site login brute-forcing
+- Traffic encryption
+
+## Getting Help 
+
+For usage questions, to report bugs, or to suggest new features, please contact me on Telegram: 
+
+@rud3p
+
+Or open a GitHub issue on the project page:
+
+https://github.com/Rud3p/proxy-ddos
+
+Contributions and pull requests are welcome!
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Legal 
+
+This is for authorized stress testing of your own systems only! Use responsibly! Attacking websites without permission is illegal.
