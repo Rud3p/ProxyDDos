@@ -19,7 +19,6 @@ The script spins up threads to bombard the target with requests via the proxies,
 - Multi-threaded requests via proxies for powerful DDoS capability  
 - SOCKS proxy support for anonymity
 - Customizable list of proxies
-- Animated logo for coolness
 
 ## Upcoming Features
 
