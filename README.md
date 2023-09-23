@@ -23,27 +23,20 @@ The script spins up threads to bombard the target with requests via the proxies,
 
 ## Upcoming Features
 
-- HTTP proxy support
-- Randomized user agents  
-- Target site login brute-forcing
+- Randomized user agents 
 - Traffic encryption
 
 ## Getting Help 
 
 For usage questions, to report bugs, or to suggest new features, please contact me on Telegram: 
 
-@rud3p
+@rRud3p
 
 Or open a GitHub issue on the project page:
 
 https://github.com/Rud3p/proxy-ddos
 
-Contributions and pull requests are welcome!
-
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
 
-## Legal 
-
-This is for authorized stress testing of your own systems only! Use responsibly! Attacking websites without permission is illegal.
