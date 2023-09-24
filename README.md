@@ -33,7 +33,7 @@ For usage questions, to report bugs, or to suggest new features, please contact 
 
 Or open a GitHub issue on the project page:
 
-https://github.com/Rud3p/ProxyDDos
+https://github.com/Rud3p/ProxyDDos/issues
 
 ## License
 
